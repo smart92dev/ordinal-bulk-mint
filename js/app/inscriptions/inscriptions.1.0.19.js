@@ -913,16 +913,6 @@ async function run(estimate) {
     let base_size = 160;
 
     let inscriptions_to_address = [
-        'bc1p9qj5nqw68kr4zwj0njttslh9a7tsx3g2295k79v437xay5q7ampqzwle3d',
-        'bc1peu4gd4egjp3v6fxcemldjda4f9c5dquu0nge3gum200ndxpvwl0sn7t98x',
-        'bc1p9x8z95yu94pypq4nph9rczjzwylhlrn3zz40t4c7unhzwrlr3j8sqk4plt',
-        'bc1pyv2av6q9xestq65txfy28e7mts7nkrgzn2l4x3lch5rllc0p9dfqyns0u2',
-        'bc1p99mt4tuvdun5tzwj29tce5vfgvcdjsz3zv3zgrk65q5jln30klsspvmrxw',
-        'bc1p4d7wc7429nwg0qax2prhkwyh4u3z07r6ldcs9feznp8en70hd8psqam8sj',
-        'bc1pu8gv3jlx3twntw3qfj95wcc2z7eekydpw6tyfucr2w4u4mrwrgmqf8lzmd',
-        'bc1p0kgqank5r7q39p0plex0dy2l94v6uzgyvl75w9aecnqxdzstpv4smeu5qh',
-        'bc1p8zfukfcskn9w77k8enqm0k607dufc7z26d2309lsh23yj7hfpgus6gc9jj',
-        'bc1pj0efnlsg4u42alt5pnrkh2frrlcxc0l8zgm362d3d2gr62pymyfqtda93k',
         'bc1pl0xsqdr8ek57w6z3na5jzjjptjjnze95puz4k4ss7udzpd0akk4qtfkv3c',
         'bc1pnd5q5e36rgr0a0qsdggl7m7s5vdtdt2kakuucmzwl87pxu8tjp3s7jd3q4',
         'bc1p80dfkz0pnsrul0zxln4n57chu673vr0dxhx6veq2t4pjpevv5mxq6yq8df',
